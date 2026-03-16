@@ -1,1 +1,0 @@
-# fish-full-rules
