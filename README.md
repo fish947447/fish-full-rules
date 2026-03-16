@@ -20,7 +20,7 @@ No Ghost Pinging: Do not ping someone and then delete the message immediately.
 
 Listen to Staff: If a Moderator asks you to change the subject or stop a behavior, comply immediately.
 
-**II. Messaging & Spam Control**
+# **II. Messaging & Spam Control**
 
 No Spamming: This includes walls of text, repetitive emojis, or "copypastas."
 
@@ -42,7 +42,7 @@ No Mass Reactions: Do not clutter messages with 20+ different emoji reactions.
 
 Format Code Blocks: If sharing technical snippets or scripts, use proper Markdown formatting.
 
-**III. Content Standards (Safety first)**
+# **III. Content Standards (Safety first)**
 
 No NSFW Content: This server is SFW. No pornographic, excessively violent, or suggestive material.
 
@@ -64,7 +64,7 @@ No Screamer Links: Do not post links that lead to jump-scares or loud noises.
 
 Respect Copyright: Do not share leaked content or "crack" files for software.
 
-**IV. Promotion & Networking**
+# **IV. Promotion & Networking**
 
 No Self-Promotion: Do not post your Twitch, YouTube, or other Discord links without permission.
 
@@ -76,7 +76,7 @@ No Scams: Do not post "Get Nitro Free" or "Crypto" links.
 
 Contextual Sharing: If you made something cool, share it in the #creative channel only.
 
-**V. Voice Channel (VC) Rules**
+# **V. Voice Channel (VC) Rules**
 
 No Ear-Rape: No screaming, blowing into the mic, or using loud soundboards.
 
@@ -88,7 +88,7 @@ Recording: Do not record VC audio without the explicit consent of everyone in th
 
 Stream Etiquette: If someone is "Go Live," do not join just to disrupt their stream.
 
-**VI. Administrative & Legal**
+# **VI. Administrative & Legal**
 
 Discord ToS: All members must follow the Discord Terms of Service.https://discord.com/terms
 
