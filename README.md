@@ -1,4 +1,4 @@
-**I. General Conduct & Etiquette**
+# **I. General Conduct & Etiquette**
 
 Respect all members: Treat others with the same level of respect you expect to receive.
 
